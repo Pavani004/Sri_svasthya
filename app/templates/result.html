@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block title %}Result{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>Your Personalized Health Suggestion</h1>
+    <p><strong>Analysis:</strong> {{ cluster_info }}</p>
+    <p><strong>Recommendation:</strong> {{ prediction }}</p><br><br>
+    <a href="/" class="btn">Go Back</a>
+</div>
+{% endblock %}

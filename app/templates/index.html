@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>Enter Your Health Details</h1>
+    <form method="POST">
+        {{ form.hidden_tag() }}
+        <label>Age:</label> {{ form.age() }}
+        <label>Lifestyle:</label> {{ form.lifestyle() }}
+        <label>Medical History:</label> {{ form.medical_history() }}
+        <label>Symptoms:</label> {{ form.symptoms() }}
+        {{ form.submit(class="btn") }}
+    </form>
+</div>
+{% endblock %}
