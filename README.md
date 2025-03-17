@@ -51,3 +51,19 @@ This is the **initial milestone** in the development of a **speech-enabled mobil
 🚀 **Integration with Wearable Devices** for real-time health tracking.  
 🚀 **AI-driven Diagnosis** using advanced deep learning models.  
 🚀 **Cloud Deployment** for wider accessibility.  
+
+---
+
+## 🔮 Expected Output
+
+![Image](https://github.com/user-attachments/assets/03b06e14-17aa-403e-a377-830e48ac5024)
+
+![Image](https://github.com/user-attachments/assets/ba6b034c-73a5-4eb2-b42f-da0fc398c528)
+
+![Image](https://github.com/user-attachments/assets/bddb1878-d704-4d99-be94-010b836cf8d4)
+
+![Image](https://github.com/user-attachments/assets/e07843a6-7b15-4091-a2ea-1095c17c044f)
+
+![Image](https://github.com/user-attachments/assets/30a7f48f-8592-43a7-bc2f-546b860ff69d)
+
+![Image](https://github.com/user-attachments/assets/aef54900-a8d9-4ea4-a016-b82a7ab7643b)
